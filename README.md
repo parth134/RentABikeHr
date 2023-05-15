@@ -1,4 +1,4 @@
-# Hourly Bike Rental Demand Prediction
+# RentABikeHr
 
 This is a Streamlit project that predicts the hourly demand for bike rentals. The project is based on a machine learning model that has been trained on historical bike rental data. It takes into account various features such as weather conditions, time of day, and day of the week to make accurate predictions.
 
