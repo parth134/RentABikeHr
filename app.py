@@ -10,7 +10,7 @@ from sklearn.metrics import r2_score
 #Heading of the project
 st.markdown(
     f"""
-    <h1 style='text-align: center; color: blue; font-size: 3.2rem;'>{'HOURLY BIKE RENTAL DEMAND ANALYSER &#x1F6B2;'}</h1>
+    <h1 style='text-align: center; color: blue; font-size: 3.2rem;'>{'RentABikeHr &#x1F6B2;'}</h1>
     """,
     unsafe_allow_html=True
 )
